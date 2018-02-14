@@ -28,6 +28,7 @@ h5,
 h6 {
   font-weight: 700;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #fff;
 }
 
 section {
@@ -514,7 +515,7 @@ header.masthead .intro-text .intro-heading {
 
 .timeline .timeline-heading h4 {
   margin-top: 0;
-  color: inherit;
+  color: #fff;
 }
 
 .timeline .timeline-heading h4.subheading {
@@ -615,6 +616,7 @@ header.masthead .intro-text .intro-heading {
   margin-top: 25px;
   margin-bottom: 0;
   text-transform: none;
+  color: #fff;
 }
 
 .team-member p {
