@@ -13,7 +13,7 @@ a {
 }
 
 a:hover {
-  color: #fec503;
+  color: #00fce2;
 }
 
 .text-primary {
@@ -75,8 +75,8 @@ section h3.section-subheading {
 .btn-primary:active,
 .btn-primary:focus,
 .btn-primary:hover {
-  background-color: #fec810 !important;
-  border-color: #fec810 !important;
+  background-color: #00fce2 !important;
+  border-color: #00fce2 !important;
   color: white;
 }
 
@@ -128,7 +128,7 @@ img::-moz-selection {
 #mainNav .navbar-brand:active,
 #mainNav .navbar-brand:focus,
 #mainNav .navbar-brand:hover {
-  color: #fec503;
+  color: #00fce2;
 }
 
 #mainNav .navbar-nav .nav-item .nav-link {
@@ -256,7 +256,7 @@ header.masthead .intro-text .intro-heading {
   -moz-transition: all ease 0.5s;
   transition: all ease 0.5s;
   opacity: 0;
-  background: rgba(254, 209, 54, 0.9);
+  background: rgba(0, 175, 157, 0.9);
 }
 
 #objetivos .objetivos-item .objetivos-link .objetivos-hover:hover {
